@@ -5,6 +5,8 @@ import random
 import csv
 from numpy import dot
 
+#source: "Data Science from Scratch" by Joel Grus
+
 users_interests = [
     ["mathematics", "theory"],
     ["Hadoop", "Big Data", "HBase", "Java", "Spark", "Storm", "Cassandra"],
